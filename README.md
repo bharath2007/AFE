@@ -254,7 +254,7 @@ Qwen3.5-9B/
 
 # Author
 
-**Name:** Your Name
+**Name:** Bharath A
 
 **GitHub:** https://github.com/yourusername
 
